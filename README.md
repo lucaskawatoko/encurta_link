@@ -2,4 +2,5 @@
 
 codigo criado para o intuito de dar mais comodidade para o usuario conseguir encurtar qualquer link de forma rapida e facil 
 
-o passo a passo para o código funcionar de forma correta esta no prorpio codigo
+basta rodar o seguinte comando para instalar todas as dependencias do codigo 
+**pip install -r requirements. txt** 
