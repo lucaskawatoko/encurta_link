@@ -1,6 +1,20 @@
-# encurta_link
+**Encurtador de URL usando pyshorteners**
 
-codigo criado para o intuito de dar mais comodidade para o usuario conseguir encurtar qualquer link de forma rapida e facil 
+Este é um código simples em Python que utiliza a biblioteca pyshorteners para encurtar URLs. O script recebe uma URL longa como entrada e retorna uma versão encurtada usando o serviço TinyURL.
 
-basta rodar o seguinte comando para instalar todas as dependencias do codigo 
-**pip install -r requirements. txt** 
+**Funcionamento**
+
+O script utiliza a biblioteca pyshorteners para encurtar URLs. A URL longa é passada como entrada e a biblioteca se comunica com o serviço TinyURL para gerar uma versão encurtada da URL. A versão encurtada é então exibida no terminal.
+
+**Como usar**
+
+Certifique-se de ter o Python instalado em sua máquina.
+Instale as dependências executando o comando pip install -r requirements.txt no terminal.
+Abra o arquivo encurtador.py em seu editor de código.
+**Substitua** 
+coloque aqui o link que deseja encurtar pelo link que você deseja encurtar.
+Execute o script e a versão encurtada da URL será exibida no terminal.
+
+**Contribuindo**
+
+Sinta-se à vontade para contribuir para este projeto, fazendo um fork e submetendo um pull request. Se encontrar algum problema ou tiver alguma sugestão, abra uma issue.
